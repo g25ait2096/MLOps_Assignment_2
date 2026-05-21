@@ -55,4 +55,4 @@ https://huggingface.co/g25ait2096/mlops-finetuned-distilbert
 
 ## W&B Project Dashboard
 
-https://wandb.ai/g25ait2096-iitj/MLOps-Assign_2/runs/1at7xmt9?nw=nwuserg25ait2096
+https://wandb.ai/g25ait2096-iitj/MLOps-Assign_2
